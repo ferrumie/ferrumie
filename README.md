@@ -9,5 +9,5 @@ A prospective mechanical engineer, a versatile web developer, and AI enthusiast.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferrumie&count_private=true&show_icons=true&theme=radical&line_height=40)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferrumie&line_height=2.4rem)](https://github.com/anuraghazra/github-readme-stats)
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ferrumie)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://komarev.com/ghpvc/?username=ferrumie)
