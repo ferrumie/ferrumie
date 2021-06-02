@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Feranmi 👋
 
-<!--
-**ferrumie/ferrumie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A prospective mechanical engineer, a versatile web developer, and AI enthusiast. Carving out fully tested and scalable apps with various technologies ranging from python, django, django REST framework, to codecov, pytest, AWS and lots more.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on an innovative ecommerce api with a number of amazing devs
+- 🌱 I’m currently learning DevOps, and eventually React
+- 👯 I’m looking to collaborate on impactful projects with Django.
+- 📫 Have fun looking around, you can always reach on to me on twitter with @ferrumie, and my email is alabiemmanuelferanmi@gmail.com. Cheers 🎈
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferrumie&show_icons=true&theme=radical&line_height=40)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferrumie&line_height=2.4rem)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=ferrumie)
