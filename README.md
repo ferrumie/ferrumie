@@ -1,6 +1,6 @@
 ### Hi there, I'm Feranmi 👋
 
-A prospective mechanical engineer, a versatile web developer, and AI enthusiast. Carving out fully tested and scalable apps with various technologies ranging from python, django, django REST framework, to codecov, pytest, AWS and lots more.
+A prospective mechanical engineer, a versatile web developer, and AI enthusiast. Carving out fully tested and scalable apps with various technologies ranging from python, django, django REST framework, codecov, pytest, AWS and lots more.
 
 - 🔭 I’m currently working on an innovative ecommerce api with a number of amazing devs
 - 🌱 I’m currently learning DevOps, and eventually React
