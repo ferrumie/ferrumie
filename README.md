@@ -1,8 +1,8 @@
-### Hi there, I'm Feranmi 👋
+### Hi there, I'm Feranmi 👋web developer
 
-A prospective mechanical engineer, a versatile web developer, and AI enthusiast. Carving out fully tested and scalable apps with various technologies ranging from python, django, django REST framework, codecov, pytest, AWS and lots more.
+A prospective mechanical engineer, a versatile Software Engineer, and AI enthusiast. Carving out fully tested and scalable apps with various technologies ranging from python, django, django REST framework, codecov, pytest, AWS and lots more.
 
-- 🔭 I’m currently working on an innovative ecommerce api with a number of amazing devs
+- 🔭 I’m currently working on an innovative ecommerce api with a number of amazing devs and a personal project i called multi-pay
 - 🌱 I’m currently learning DevOps, and eventually React
 - 👯 I’m looking to collaborate on impactful projects with Django.
 - 📫 Have fun looking around, you can always reach out to me on twitter with @ferrumie, and my email is alabiemmanuelferanmi@gmail.com. Cheers 🎈
